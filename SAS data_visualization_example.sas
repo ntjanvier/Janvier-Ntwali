@@ -1,5 +1,5 @@
 
-/*--Box plot BW solid lines Legend markers--*/
+/*Example of a Boxplot in black and white colour solid lines Legend markers*/
 ods listing style=journal2;
 ods graphics / reset width=5in height=3in imagename='Box_Legend';
 title 'Distributiion of Cholesterol by Death Cause and Sex';
